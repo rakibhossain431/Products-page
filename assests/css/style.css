@@ -38,10 +38,8 @@
     width: 80%;
     color: rgb(29, 28, 28);
 }
-.products-display{
-    display: flex;
-    justify-content: space-between;
-    margin-top:50px;
+.products-details{
+    margin-top: 50px;
 }
 .lens{
     flex-basis: 48%;
